@@ -1,4 +1,4 @@
-# ElixirPhoenixContextBlogPost
+# Maintainable Phoenix Context Blog Post
 
 To start your Phoenix server:
 
